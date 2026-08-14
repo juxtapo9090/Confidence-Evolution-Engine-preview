@@ -32,8 +32,8 @@ the core architecture).
 
 ## Related
 
-- **Mozart Foundation** — multi-timeframe observation/priors layer
-- **Waldstein** — gear-ratio conviction engine built on Mozart
+- **[Mozart Foundation](https://github.com/juxtapo9090/mozart-foundation-preview)** — multi-timeframe observation/priors layer
+- **[Waldstein](https://github.com/juxtapo9090/waldstein-mozart-engine-preview)** — gear-ratio conviction engine built on Mozart
 
 ---
 
