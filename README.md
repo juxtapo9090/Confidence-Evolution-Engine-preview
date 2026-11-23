@@ -66,10 +66,10 @@ cee_v23/
 
 ## Status
 
-This is the v23 prototype. It runs. It detects. The decoder is not complete — but the architecture is sound.we already moving forward with 
-some enhance module inspiring from this prototype.
+This is the v23 prototype. It runs. It detects. it become a foundation. We already moving forward with 
+some evolve module inspiring from this prototype.
 
-> *"pattern was intuition , never about probability."*
+> *"pattern was intuition , never about probability. you know the rain weight coming by the breeze of air on your faces"*
 
 ---
 
