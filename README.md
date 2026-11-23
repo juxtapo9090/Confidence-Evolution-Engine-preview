@@ -9,7 +9,9 @@ CEE is a personal research project — a trading signal framework built around t
 
 This is not a textbook strategy. It's an attempt to build a **decoder for how markets actually move**, rather than how they're supposed to move.
 
-Built from scratch. No team. No budget. Just observation, iteration, and a lot of late night, feeding the brains.
+## The Pain 
+building stuff regardless Market Theory with AI , on certain model its a total disaster to included scoring , RSI , strength , Risk Reward  , had to encapsule it in the symphony program analogy to make it works as intent to be a sequencer and rhytm.. at certain point 
+they still try to applied the "market Inteligence" in my system where it was a total structural behaviour so , had to cross-check with my logic and applied some "redirect" method to the main objection... ignore the call "modifier" , it never included just some medal of dissapointment of themself to be included (its not a claude model since they know the game , literal or analogy speaking)
 
 ## Architecture
 
